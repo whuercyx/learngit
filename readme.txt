@@ -9,5 +9,6 @@ public:
 };
 int main () {
 	Readme r;
+	Readme re;
 	return 0;
 {
